@@ -34,7 +34,7 @@
         flush_size=100：int（在调用print或input达到此次数后，执行flush_cache）
         clear_old=Flase：bool（初始化对象时清除屏幕）
 
-#### self.log_print
+#### obj.log_print()
 
     打印字符串
     位置参数:
@@ -44,14 +44,14 @@
             无论是外出还是自我。O_out：print(输入的字符串，end=end)
 
 
-#### self.log_input
+#### obj.log_input()
 
     输入字符串
     位置参数:
         string: 打印的字符串
 
 
-#### self.flush_cache
+#### obj.flush_cache()
 
     将缓存保存到log文件
         位置参数: -
