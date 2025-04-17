@@ -1,6 +1,7 @@
 # IOlog
 
 用于python的print和input的记录留存的脚本模块
+
     This is a script
     This is a script
     This is a script
