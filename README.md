@@ -1,6 +1,26 @@
 # IOlog
 
 用于python的print和input的记录留存的脚本模块
+    This is a script
+    This is a script
+    This is a script
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 深入理解IOlog类的实现与内部使用逻辑
 
 ### IOlog类
 
